@@ -70,6 +70,4 @@ we are going to create one machine learning on SageMaker using notebook.
 
 [BACK TO WORKSHOP GUIDE :house:](../README.md)
 
-[CONTINUE TO NEXT GUIDE :arrow_right:](AIServices.md)
-
 [BACK TO PREVIOUS GUIDE :arrow_left:](DataLabelling.md)

@@ -30,7 +30,7 @@ CloudFormation is a service that runs the infrastructure based on code. it will 
 
 this might take around 10 minutes to be deployed successfully. Once it's done, let's open the S3 bucket it has been created and upload the pre-translated data there.
 
-6. Download [this pre-translated data](../files/PretranslateTrainData.csv)
+6. Download [this pre-translated data](../files/PretranslateTrainData.csv) (you might need to open this in new tab, click raw, and save as .csv file)
 7. in cloudformation console, click `Resources` tab and look for `ComprehendInputDataS3Bucket`.
 8. click the link in physical ID next to `ComprehendInputDataS3Bucket`
 
@@ -69,6 +69,10 @@ Let's try to open the workflow.
 
 This workflow is currently running, since there is an insert event on S3. The file insertion on S3 triggers the workflow to run and create the comprehend model for us, using Custom classification. this might take 1 hour to complete.
 
+Alternatively, you can also try to change the data by using [original data here](../files/IndonesianTweetLabelled.csv), with negative label is -1, neutral is 0, and positive is 1
+
 [BACK TO WORKSHOP GUIDE :house:](../README.md)
 
-[BACK TO PREVIOUS GUIDE :arrow_left:](DevelopmentSM.md)
+[CONTINUE TO NEXT GUIDE :arrow_right:](DataLabelling.md)
+
+[BACK TO PREVIOUS GUIDE :arrow_left:](DataSource.md)

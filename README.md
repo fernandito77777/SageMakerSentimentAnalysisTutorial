@@ -2,9 +2,9 @@
 
 ### Agenda
 0. [Data Source Configuration](docs/DataSource.md)
-1. [Data Labelling using SageMaker Ground Truth](docs/DataLabelling.md)
-2. [Data Engineering, Training, and Deployment using SageMaker](docs/DevelopmentSM.md)
-3. [Sentiment Analysis on AI Services](docs/AIServices.md)
+1. [Sentiment Analysis on AI Services](docs/AIServices.md)
+2. [Data Labelling using SageMaker Ground Truth](docs/DataLabelling.md)
+3. [Data Engineering, Training, and Deployment using SageMaker](docs/DevelopmentSM.md)
 
 ### Scope of Project
 1. Sentiment Analysis is using Supervised Approach text classification using BlazingText on SageMaker.

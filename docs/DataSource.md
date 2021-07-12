@@ -63,4 +63,4 @@ Now, we are going to upload a data for machine learning on SageMaker and AI Serv
 
 [BACK TO WORKSHOP GUIDE :house:](../README.md)
 
-[CONTINUE TO NEXT GUIDE :arrow_right:](DataLabelling.md)
+[CONTINUE TO NEXT GUIDE :arrow_right:](AIServices.md)
