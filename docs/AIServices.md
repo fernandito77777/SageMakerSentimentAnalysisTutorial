@@ -69,7 +69,7 @@ Let's try to open the workflow.
 
 This workflow is currently running, since there is an insert event on S3. The file insertion on S3 triggers the workflow to run and create the comprehend model for us, using Custom classification. this might take 1 hour to complete.
 
-Alternatively, you can also try to change the data by using [original not translated data here](../files/IndonesianTweetLabelled.csv), with negative label is -1, neutral is 0, and positive is 1
+Alternatively, you can also try to change the data by using [original not translated data here](../files/IndonesianTweetLabelled.csv), with negative label is -1, neutral is 0, and positive is 1. but, you need to create new stack, following from step 1.
 
 [BACK TO WORKSHOP GUIDE :house:](../README.md)
 
