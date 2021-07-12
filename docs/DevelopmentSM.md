@@ -20,9 +20,7 @@ it will display the screen like this:
 
 8. click `Submit`
 
-it will be loading for 5 until 10 minutes.
-
-once it's done, let's create a user.
+it will be loading for 5 until 10 minutes. Once it's done, let's create a user.
 
 9. click `Add User`
 
