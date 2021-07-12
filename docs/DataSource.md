@@ -20,7 +20,7 @@ For data source, we are going to use data from a source. the data is about tweet
 
 Bear in mind that each of the bucket names in S3 must be unique, so if your 1st time doesn't work, please change the name.
 
-8. Specify the region to `Singapore`
+8. Specify the region to `N-virginia`
 
 ![](../images/DataSource/8.png)
 

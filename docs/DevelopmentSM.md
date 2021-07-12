@@ -1,6 +1,6 @@
 ## Data Engineering, Training, and Deployment using SageMaker
 
-Note: this is using ap-southeast-1, also working on us-east-1
+Note: this is using us-east-1, also working on ap-southeast-1 (need to clarify on s3 bucket in singapore region)
 
 In this workshop, we are going to use SageMaker Studio, an IDE for Machine Learning on AWS. this includes notebook creation, git repository integration, and terminal access.
 
