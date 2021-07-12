@@ -2,8 +2,8 @@
 
 For data source, we are going to use data from a source. the data is about tweets from indonesian. We are going to detect the sentiment based on their tweets.
 
-1. Please download this [Indonesian Tweet dataset](../files/SentimentAnalysis-IndonesiaData.zip). Unzip it once you are done.
-2. Alternatively, if you can't unzip files, here is the [data for label in SageMaker Ground Truth](../files/IndonesianTweetUnlabelled) and [data for ML Process on SageMaker and AI Service](../files/IndonesianTweetLabelled)
+1. Please download this [Indonesian Tweet dataset](../files/SentimentAnalysis-IndonesiaData.zip) (please click `open in new tab`, and click `download` button). Unzip it once you are done.
+2. Alternatively, if you can't unzip files, here is the [data for label in SageMaker Ground Truth](../files/IndonesianTweetUnlabelled) and [data for ML Process on SageMaker and AI Service](../files/IndonesianTweetLabelled) (open in new tab, click `raw` and click `save as`, choose the format into `All Files`, and remove the `.txt` extension at the end of the file name)
 3. go to [AWS Console](https://ap-southeast-1.console.aws.amazon.com/console/home?region=ap-southeast-1)
 4. type `S3` at the search bar, and click the `S3` service.
 
