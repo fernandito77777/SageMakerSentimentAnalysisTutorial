@@ -4,6 +4,10 @@ In this workshop, we are going to use SageMaker Studio, an IDE for Machine Learn
 
 1. go to [SageMaker Console](https://ap-southeast-1.console.aws.amazon.com/sagemaker/home?region=ap-southeast-1#/landing)
 2. click `Amazon SageMaker Studio` on the left menu
+
+![](../images/DevelopmentSM/2.png)
+
+
 3. click `Standard Setup`
 4. in authentication method, choose `AWS Identity and Access Management (IAM)`
 5. in Permission, click `Create new role`
@@ -49,7 +53,11 @@ once it's done, here is the review page.
 we are going to create one machine learning on SageMaker using notebook.
 
 14. Download [this ipynb notebook](../files/SentimentAnalysis.ipynb) on your local
-15. upload the notebook to sagemaker studio.
+15. upload the notebook to sagemaker studio by drag and drop the notebook.
+16. double click the notebook. Follow the instruction inside the notebook.
+
+![](../images/DevelopmentSM/16.png)
+
 
 [BACK TO WORKSHOP GUIDE :house:](../README.md)
 
