@@ -1,4 +1,4 @@
-# Sentiment Analysis Tutorial
+# Sentiment Analysis on AWS Tutorial
 
 ### Agenda
 0. [Data Source Configuration](docs/DataSource.md)
