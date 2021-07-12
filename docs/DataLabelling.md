@@ -1,5 +1,7 @@
 ## Data Labelling using SageMaker Ground Truth
 
+Note: this is using ap-southeast-1, also working on us-east-1
+
 SageMaker Ground Truth is a segment on SageMaker, ML Platform on AWS that helps to label the data you would like to process on Machine Learning. For more description, please click [here](https://docs.aws.amazon.com/sagemaker/latest/dg/sms.html)
 
 1. Go to [AWS Console](https://ap-southeast-1.console.aws.amazon.com/console/home?region=ap-southeast-1#)
