@@ -52,7 +52,7 @@ once it's done, here is the review page.
 
 we are going to create one machine learning on SageMaker using notebook.
 
-14. Download [this ipynb notebook](../files/SentimentAnalysis.ipynb) on your local
+14. Download [this ipynb notebook](../files/SentimentAnalysis.ipynb) on your local (Please click open in a new window, click raw, and save as .ipynb file)
 15. upload the notebook to sagemaker studio by drag and drop the notebook.
 16. double click the notebook. Follow the instruction inside the notebook.
 
