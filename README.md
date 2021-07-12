@@ -7,7 +7,7 @@
 
 ### Data Source
 1. Please download this [Indonesian Tweet dataset](files/SentimentAnalysis-IndonesiaData.zip). Unzip it once you are done.
-2. Alternatively, if you can't unzip files, here is the [data for label](files/IndonesianTweetUnlabelled) and [data for ML Process](files/IndonesianTweetLabelled)
+2. Alternatively, if you can't unzip files, here is the [data for label in SageMaker Ground Truth](files/IndonesianTweetUnlabelled) and [data for ML Process on SageMaker and AI Service](files/IndonesianTweetLabelled)
 
 ### Scope of Project
 1. Sentiment Analysis is using Supervised Approach text classification using BlazingText on SageMaker.
