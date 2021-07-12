@@ -38,21 +38,9 @@ You will receive an email invitation to label the data. Open it later.
 
 Now, we are going to upload our data that will be labelled.
 
-18. go to [S3 Console](https://s3.console.aws.amazon.com/s3/home?region=ap-southeast-1#)
-19. click `Create Bucket`
-20. fill your bucket name with `<yourname>-sentiment-indo-data`
-
-Bear in mind that each of the bucket names in S3 must be unique, so if your 1st time doesn't work, please change the name.
-
-21. Specify the region to `Singapore`
-22. scroll down and click `Create Bucket`
-
-Once the storage is ready, we are going to upload it.
-
-23. click your bucket name `<yourname>-sentiment-indo-data`
-24. click `Upload`
-25. upload your `IndonesianTweetUnlabelled.csv` file by drag and drop to the console, or you can click `Add files`
-26. click `Upload`
+---
+move to data source step
+---
 
 Once it's done, let's go back to Ground Truth to set the label job.
 

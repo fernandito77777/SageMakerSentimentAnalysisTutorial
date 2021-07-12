@@ -58,6 +58,11 @@ we are going to create one machine learning on SageMaker using notebook.
 
 ![](../images/DevelopmentSM/16.png)
 
+17. for kernel, please choose `Python 3 (Data Science)` located at the top right of notebook.
+
+18. don't forget to change the S3 bucket name to your bucket `<yourname>-sentiment-indo-data`
+
+![](../images/DevelopmentSM/18.png)
 
 [BACK TO WORKSHOP GUIDE :house:](../README.md)
 
