@@ -65,3 +65,5 @@ this will create a manifest file, acts as a pointer that the data will be used t
 [BACK TO WORKSHOP GUIDE :house:](../README.md)
 
 [CONTINUE TO NEXT GUIDE :arrow_right:](DevelopmentSM.md)
+
+[BACK TO PREVIOUS GUIDE :arrow_left:](DataSource.md)
