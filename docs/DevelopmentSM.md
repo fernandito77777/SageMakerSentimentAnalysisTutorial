@@ -44,7 +44,7 @@ Once it's ready, let's try to open the studio
 
 ![](../images/DevelopmentSM/13.png)
 
-this will need around 10 until 20 minutes, to spin up the server for the IDE to run properly.
+this will need around 5 until 20 minutes, to spin up the server for the IDE to run properly.
 
 once it's done, here is the review page.
 
@@ -63,6 +63,10 @@ we are going to create one machine learning on SageMaker using notebook.
 18. don't forget to change the S3 bucket name to your bucket `<yourname>-sentiment-indo-data`
 
 ![](../images/DevelopmentSM/18.png)
+
+19. choose the instance type above with the name `Unknown` and choose `t3.medium` and click `Save and continue`
+
+![](../images/DevelopmentSM/19.png)
 
 [BACK TO WORKSHOP GUIDE :house:](../README.md)
 

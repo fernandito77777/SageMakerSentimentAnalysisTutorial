@@ -158,6 +158,9 @@ once it's done, you can see the view
 
 
 47. repeat this process until it's done.
+48. to check the labelled result, go to your [S3 console](https://s3.console.aws.amazon.com/s3/home?region=ap-southeast-1#)
+49. click your bucket name
+50. open your SageMaker Ground Truth Job Name `SentimentAnalysisIndoJobLabel/`, click `annotations/`, click `consolidated-annotation/`, click `consolidation-response/`, and click `iteration-1/`. it will display JSON Files for your label result.
 
 [BACK TO WORKSHOP GUIDE :house:](../README.md)
 
