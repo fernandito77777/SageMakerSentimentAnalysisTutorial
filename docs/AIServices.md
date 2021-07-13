@@ -21,6 +21,7 @@ CloudFormation is a service that runs the infrastructure based on code. it will 
 
 ![](../images/AIServices/3.png)
 
+Bear in mind, it has a 63 limit characteristics for your stack name, since it will be used to name your S3 bucket.
 
 4. in configure stack options, and advanced options, click `Next` at bottom right
 5. in review page, make sure to check all 3 of the checkboxes at `Capabilities and transforms` and click `Create stack`
