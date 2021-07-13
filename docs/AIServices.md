@@ -17,7 +17,7 @@ CloudFormation is a service that runs the infrastructure based on code. it will 
 ![](../images/AIServices/2.png)
 
 
-3. In stack name, fill it with `<yourname>-sentiment-analysis-indo-stack` and click `next`
+3. In stack name, fill it with `<yourname>-SentAnalysis-indo-stack` and click `next`
 
 ![](../images/AIServices/3.png)
 
